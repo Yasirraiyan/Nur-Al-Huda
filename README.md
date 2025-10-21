@@ -10,8 +10,8 @@ Light of Guidance” in Arabic, elegant and meaningful..
 ![React Logo](https://reactjs.org/logo-og.png)
 
 
-![Next.js Logo](https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg)
 
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=nextdotjs)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 Feature:
